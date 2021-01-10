@@ -1,5 +1,2 @@
-function mult(a, b) {
-    return a * b
-}
-
-module.exports = mult
+function mult(a, b) { return a * b; }
+module.exports = mult;
